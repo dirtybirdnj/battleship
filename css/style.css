@@ -1,0 +1,22 @@
+#the_ocean {
+	
+	width: 700px;
+	height: 490px;
+}
+
+#gameboard{
+	margin-top: 10px;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.header {
+	
+	margin-bottom: 10px;
+}
+
+#ship_buttons {
+	margin: 0px 0px;
+	
+}
