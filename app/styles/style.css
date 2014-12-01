@@ -1,0 +1,46 @@
+#alogo {
+	width: 30px;
+	height: 30px;
+	
+}
+
+.rowcontainer {
+	
+	width: 560px;
+}
+
+
+.rowitem {
+	
+	float: left;
+	border: 1px solid black;
+	width: 45px;
+	height: 45px;
+	margin: 5px;
+	padding-top: 10px;
+	
+}
+
+.boardContainer {
+	
+	overflow: hidden;
+	margin: 5px 10px;	
+	
+}
+
+.carrier_v,.carrier_h{
+	background-color: red;
+	
+}
+
+.carrier_v {
+	position: absolute;		
+	width: 45px;
+	height: 264px;	
+}
+
+.carrier_h {
+	position: absolute;		
+	width: 265px;
+	height: 46px;	
+}
